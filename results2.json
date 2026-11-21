@@ -1,0 +1,72 @@
+{
+ "rho": 0.356,
+ "p": 0.0005,
+ "boot_lo": 0.236,
+ "boot_hi": 1.146,
+ "kw_h": 13.31,
+ "kw_p": 0.0098,
+ "rho_no22": 0.211,
+ "p_no22": 0.0621,
+ "n": 93,
+ "n_no22": 79,
+ "h100_by_era": {
+  "Collab": 1,
+  "Farewell": 3,
+  "Global": 5,
+  "Streaming": 8
+ },
+ "n_h100": 17,
+ "min_h100": 1,
+ "certs": [
+  [
+   "Despacito (Luis Fonsi)",
+   141,
+   false
+  ],
+  [
+   "Dura",
+   43,
+   true
+  ],
+  [
+   "Con Calma",
+   41,
+   true
+  ],
+  [
+   "Gasolina",
+   33,
+   true
+  ],
+  [
+   "Shaky Shaky",
+   23,
+   true
+  ],
+  [
+   "La Rompe Corazones",
+   17,
+   true
+  ],
+  [
+   "Andas en Mi Cabeza (Chino & Nacho)",
+   15,
+   true
+  ],
+  [
+   "La Santa (Bad Bunny)",
+   12,
+   true
+  ],
+  [
+   "No Lo Trates",
+   11,
+   true
+  ],
+  [
+   "Vuelve",
+   10,
+   true
+  ]
+ ]
+}

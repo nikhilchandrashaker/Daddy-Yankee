@@ -1,0 +1,118 @@
+{
+ "n_songs": 113,
+ "n_latin": 93,
+ "n_h100": 17,
+ "n_no1": 7,
+ "n_top10": 37,
+ "ols": {
+  "names": [
+   "Intercept",
+   "Year (since 2004)",
+   "Collab lead",
+   "Featured"
+  ],
+  "b": [
+   9.652,
+   0.617,
+   1.488,
+   -2.201
+  ],
+  "se": [
+   3.458,
+   0.265,
+   3.371,
+   3.542
+  ],
+  "r2": 0.099,
+  "n": 93
+ },
+ "logit": {
+  "names": [
+   "Intercept",
+   "Year (since 2004)",
+   "Collab lead",
+   "Featured"
+  ],
+  "b": [
+   -0.173,
+   -0.042,
+   -0.524,
+   0.542
+  ],
+  "se": [
+   0.443,
+   0.035,
+   0.525,
+   0.523
+  ],
+  "or": [
+   0.842,
+   0.959,
+   0.592,
+   1.719
+  ],
+  "n": 113,
+  "acc": 0.673,
+  "base": 0.673
+ },
+ "era": [
+  {
+   "era": "Global",
+   "n": 18.0,
+   "median_peak": 9.0,
+   "no1": 1.0,
+   "top10": 9.0
+  },
+  {
+   "era": "Collab",
+   "n": 20.0,
+   "median_peak": 9.5,
+   "no1": 3.0,
+   "top10": 11.0
+  },
+  {
+   "era": "Streaming",
+   "n": 22.0,
+   "median_peak": 11.5,
+   "no1": 3.0,
+   "top10": 10.0
+  },
+  {
+   "era": "Farewell",
+   "n": 27.0,
+   "median_peak": 23.0,
+   "no1": 0.0,
+   "top10": 7.0
+  },
+  {
+   "era": "Post-retirement",
+   "n": 6.0,
+   "median_peak": 28.5,
+   "no1": 0.0,
+   "top10": 0.0
+  }
+ ],
+ "role": [
+  {
+   "role_name": "Featured artist",
+   "n": 22,
+   "median_peak": 11.0,
+   "no1": 1,
+   "top10": 11
+  },
+  {
+   "role_name": "Lead with collaborators",
+   "n": 38,
+   "median_peak": 19.5,
+   "no1": 2,
+   "top10": 9
+  },
+  {
+   "role_name": "Solo lead",
+   "n": 33,
+   "median_peak": 9.0,
+   "no1": 4,
+   "top10": 17
+  }
+ ]
+}
